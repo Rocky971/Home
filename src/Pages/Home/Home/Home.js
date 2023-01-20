@@ -18,7 +18,7 @@ const Home = () => {
             <PopularCatagories></PopularCatagories>
             <PoorFundActiveMember></PoorFundActiveMember>
             <JoinRecentEvent></JoinRecentEvent>
-            <ContactUs></ContactUs>
+            {/* <ContactUs></ContactUs> */}
             <Volunteers></Volunteers>
             {/* <br /> */}
             {/* <FirstSection></FirstSection> */}

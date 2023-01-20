@@ -16,7 +16,7 @@ body {
 }
 
 .main-hero {
-  background-image: url("https://i.ibb.co/Vq7qppG/dsdf.jpg");
+  background-image: url("./hero.jpg");
   width: 100%;
   height: 100%;
   display: inline-block;
@@ -171,8 +171,6 @@ body {
   transition: 0.5s all ease-in-out;
   cursor: pointer;
 }
-
-.hero-top-images {}
 
 .hero-top-images img {
   width: 200px;
@@ -445,7 +443,7 @@ button.subscribe-btn {
   border-radius: 30px;
   box-shadow: 1px 1px 1pc rgba(255, 255, 255, 0.514);
   background: #02a95c;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   transition: 0.3s all ease-in-out;
   text-transform: capitalize !important;
   position: relative;
@@ -464,7 +462,7 @@ button.subscribe-btn {
   border-radius: 5px;
   box-shadow: 1px 1px 1pc rgb(95, 93, 93);
   background: #02a95c;
-  color: rgb(0, 0, 0);
+  color: rgb(255, 254, 254);
   overflow: hidden;
 }
 

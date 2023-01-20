@@ -2,7 +2,7 @@ import React from 'react';
 import './PoorFundActiveMember.css'
 const PoorFundActiveMember = () => {
     return (
-        <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 my-10 text-white'>
+        <div className='grid sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-3 mb-10 mt-28 text-white'>
             <div className="p-14 text-center flex justify-center bg-[#02a95c] border custom border-r">
                 <i class="fa-solid fa-handshake-angle text-6xl p-[18px] custom-transform"></i>
                 <div className="">

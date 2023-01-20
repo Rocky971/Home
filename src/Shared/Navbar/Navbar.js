@@ -1,8 +1,8 @@
 import React, { useEffect, useState } from "react";
 import { FaTimes } from "react-icons/fa";
 import { Link } from "react-router-dom";
+import logo2 from '../../assets/logo/logo.png';
 import logo from '../../assets/logo/logo1.png';
-import logo2 from '../../assets/logo/logo2.png';
 
 const Navbar = () => {
     //   window.addEventListener("scroll", () => {
